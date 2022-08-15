@@ -1,0 +1,8 @@
+build/
+dist/
+exmpl/
+.env
+.vs
+__pycache__
+mckenv/
+new_table_private.py
